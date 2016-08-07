@@ -1,0 +1,127 @@
+NIGHTHAWK 2016 (C)
+AL3X V3GAS 2016 (C)
+THE AVX PROJECT 2016 (C)
+
+lc()
+This is the listing function developed by AL3X V3GAS.
+This function uses some utilities from the OS module.
+The function name 'lc' stands for 'list contents'.
+The function is similar to the 'ls'  command in Linux
+or the 'dir' command in Windows. Number of args: 0
+
+mkf(filename)
+This function simply makes a file with the file name
+the user specifies. This command is similar to the 'touch'
+command in Linux. Number of args: 1
+
+mkfs(dirname)
+This function simply makes a file with the directory name
+the user specifies. This command is similar to the 'mkdir'
+command in Linux or the same command in Windows. The name 'mkfs'
+stands for 'make file system'. Number of args: 1
+
+mkc(file_to_write_to, string_to_enter)
+This function writes to an existing file that can be read as a text file.
+The argument name 'fname' stands for 'filename' and the function name
+'stringwrite' stands for 'string to write'. Number of args: 2
+
+rmvf(filename)
+This function deletes a file. Before this operation is attempted,
+the existence of the file is verified. If it is verified, then the
+operation is carried out without delay. Number of args: 1
+
+rmvfs(dirname)
+This function deletes a directory. Before this operation is attempted,
+the existence of the directory is verified. If it is verified, then the
+operation is carried out without delay. The contents of the
+the directory is also deleted. Number of args: 1
+
+rnmf(orig_name, new_name)
+This function renames a file. Before the file is renamed,
+it's existence is verified. If it is verified positively
+the file is renamed, if it is verified negatively the operation
+is not carried out and an error is returned.
+
+keygen_main()
+This function generates a key code with the following format:
+KEY CODE FORMAT:
+* LETTER-NUMBER-LETTER-NUMBER
+* The numbers can have up to 9 digits.
+* The maximum length of the key code can be up to 20 places.
+
+keygen_small()
+This function generates a key code with the following format:
+KEY CODE FORMAT:
+* LETTER-NUMBER-LETTER-NUMBER
+* The key code has a length of 4 places.
+
+isNumber(number)
+This function determines whether the function
+that has been put in by the user is an integer.
+If it is an integer, then the output states 'True',
+if not, then the output states 'NaN'.
+
+factors(number)
+This function finds out all the the prime factors
+of the user argument. This function is then processed
+further by prime(arg).
+
+prime(number)
+This function finds out whether the number that the user
+has put in, is a prime number. This function will work admirably
+for smaller numbers. Bigger numbers starting from 1 * 10 ** 6
+will take more time to analyze.
+
+addition(num1, num2)
+This function adds two numbers with two floating point numbers.
+
+subtraction(b,c)
+This function subtracts two numbers with two floating point numbers.
+
+multiplication(b,c)
+This function multiplies two numbers with two floating point numbers.
+
+division(b,c)
+This function divides two numbers with two floating point numbers.
+
+celsius(fahrenheit_value)
+This function converts a given value in degrees
+Fahrenheit into its corresponding Celsius value.
+This function deals with temperature only.
+
+fahrenheit(celsius_value)
+This function converts a given value in degrees
+Celsius into its corresponding Fahrenheit value.
+This function deals with temperature only.
+
+velocity(distance, time)
+This function calculates the velocity it has taken
+a body to move a certain distance in a certain time.
+
+distance(velocity, time)
+This function calculates the distance it has taken a body
+to move at a certain constant velocity in a given time.
+
+time(distance, velocity)
+This function calculates the time it has taken a body
+to move at a certain constant velocity for a given distance.
+
+loopmultiplier(integer, range)
+Let a be a given number. If the user types another number b,
+loopmultiplier(arg1, arg2) will multiply a with b starting
+with a times 1 until it iterates through to b.
+
+expro(expression)
+This function determines the end value of
+an expression only containing integers.
+
+lightyear()
+This function determines the number of seconds in a lightyear.
+
+fact(integer)
+This function determines the factorial of an integer.
+
+bnmcoef(whole, part)
+This function returns the binomialcoefficient for
+two given values n and k. N represents the whole,
+K represents the part.
