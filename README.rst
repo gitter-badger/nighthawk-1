@@ -1,6 +1,9 @@
 The NighHawk Module
 ===================
 
+.. image:: https://travis-ci.org/al3xv3gas/nighthawk.svg?branch=master
+    :target: https://travis-ci.org/al3xv3gas/nighthawk
+
 About
 =====
 The NighHawk module is a module for Python that implements many
