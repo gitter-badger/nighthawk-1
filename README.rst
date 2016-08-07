@@ -25,7 +25,7 @@ NightHawk functions:
 
 .. code-block:: bash
 
-    <functions list docs/functions.txt>
+    functions list in docs/functions.txt
 
 Install NightHawk by cloning the repo:
 
