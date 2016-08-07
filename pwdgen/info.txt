@@ -1,0 +1,2 @@
+PWDGEN is a sample script for NightHawk. It is supposed to illustrate how the 'keygen_main()' function of
+NightHawk works and what happens when the function is used. AL3X V3GAS 2016(C)
