@@ -1,6 +1,10 @@
 The NighHawk Module
 ===================
 
+.. image:: https://badges.gitter.im/al3xv3gas/nighthawk.svg
+   :alt: Join the chat at https://gitter.im/al3xv3gas/nighthawk
+   :target: https://gitter.im/al3xv3gas/nighthawk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 .. image:: https://travis-ci.org/al3xv3gas/nighthawk.svg?branch=master
     :target: https://travis-ci.org/al3xv3gas/nighthawk
 
