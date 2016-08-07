@@ -1,7 +1,7 @@
 # NIGHTHAWK 2016 (C)
 # AL3X V3GAS 2016 (C)
 # THE AVX PROJECT 2016 (C)
-# NIGHTHAWK 2016.0 NOX
+# NIGHTHAWK 2016.1 NOX
 
 import os # imports the inbuilt OS module
 import shutil # imports the inbuilt SHUTIl module
