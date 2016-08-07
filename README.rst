@@ -34,7 +34,7 @@ Changelog:
 ==========
 .. code-block:: bash
 
-    version 2016.1:
+    version 2016.1.0:
         - initial release
         - minor optimizations
         - fixed "file not found" bug
@@ -43,4 +43,4 @@ Changelog:
 Direct download:
 ================
 
-NightHawk 2016.1 Nox: https://pypi.python.org/pypi/nighthawk
+NightHawk 2016.1.0 Nox: https://pypi.python.org/pypi/nighthawk
