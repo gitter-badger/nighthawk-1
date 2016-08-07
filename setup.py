@@ -31,7 +31,7 @@ setup(
     ],
     keywords='science and cryptography',
     packages=find_packages(),
-    install_requires=['nighthawk', 'pip'],
+    install_requires=['pip'],
     entry_points={
         'console_scripts': [
             'nighthawk=nighthawk:main',
