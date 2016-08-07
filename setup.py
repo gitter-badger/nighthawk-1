@@ -6,7 +6,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
     long_description = f.read()
 setup(
     name='nighthawk',
-    version='2016.1',
+    version='2016.1.0-nox',
     description='a powerful science and cryptography library',
     long_description='a powerful science and cryptography library',
     author='al3xv3gas',
