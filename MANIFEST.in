@@ -1,0 +1,5 @@
+include LICENSE.txt
+include pwdgen/pwdgen.py
+include pwdgen/info.txt
+include docs/functions.txt
+include docs/info.txt
