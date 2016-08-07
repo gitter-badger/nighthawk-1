@@ -20,6 +20,12 @@ Import it into Python:
 .. code-block:: bash
 
     >>> import nighthawk
+    
+NightHawk functions:
+
+.. code-block:: bash
+
+    <functions list docs/functions.txt>
 
 Install NightHawk by cloning the repo:
 
